@@ -1,2 +1,2 @@
-# coding-challenges-portfolio
-Coding challenge solutions portfolio
+## Coding Challenges Portfolio
+Repository to store some of my coding challenges solutions.
