@@ -1,2 +1,2 @@
 ## Coding Challenges Portfolio
-Repository to store some of my coding challenges solutions.
+Repository to store some of my python and ruby coding challenges solutions.
