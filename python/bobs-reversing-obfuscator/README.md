@@ -1,6 +1,6 @@
 [Bob's reversing obfuscator](https://www.codewars.com/kata/559ee79ab98119dd0100001d)
 
-__Story:__
+### __Story:__
 Carol's boss Bob thinks he is very smart. He says he made an app which renders messages unreadable without changing any letters, only by adding some new ones, while preserving message integrity (i. e. the original message can still be retrieved).
 
 He gave some limited access to his app to Carol to challenge her, and hinted that if Carol cannot crack this simple task, she might be fired.
@@ -9,10 +9,10 @@ Carol was trying to crack this code herself, but got too tired, so she came to y
 
 Help Carol keep her job!
 
-__Function features:__
-Arguments:
+### __Function features:__
+#### Arguments:
 - `encoded` - the encoded string which we are trying to revert to its original form.
 - `marker` - a short string used in the encoding process somehow.
 
-__Expected value:__
+#### __Expected value:__
 Your function must decode and return the original string.
