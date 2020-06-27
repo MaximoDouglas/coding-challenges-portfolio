@@ -2,8 +2,8 @@
 
 Given two arrays `a` and `b` write a function `comp(a, b)` (`compSame(a, b)` in Clojure) that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in `b` are the elements in `a` squared, regardless of the order.
 
-__Examples:__
-__Valid arrays:__
+### Examples:
+#### __Valid arrays:__
 ```
 a = [121, 144, 19, 161, 19, 144, 19, 11]  
 b = [121, 14641, 20736, 361, 25921, 361, 20736, 361]
@@ -14,7 +14,7 @@ a = [121, 144, 19, 161, 19, 144, 19, 11]
 b = [11*11, 121*121, 144*144, 19*19, 161*161, 19*19, 144*144, 19*19]
 ```
 
-__Invalid arrays:__
+#### __Invalid arrays:__
 If we change the first number to something else, `comp` may not return true anymore:
 ```
 a = [121, 144, 19, 161, 19, 144, 19, 11]  
@@ -31,4 +31,5 @@ b = [121, 14641, 20736, 36100, 25921, 361, 20736, 361]
 __Remarks:__
 - `a` or `b` might be `[]` (all languages except R, Shell).
 - `a` or `b` might be `nil` or `null` or `None` or `nothing` (except in Haskell, Elixir, C++, Rust, R, Shell, PureScript).
+
 If `a` or `b` are `nil` (or `null` or `None`), the problem doesn't make sense so return false.
