@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/sock-merchant/problem
+
 fun sockMerchant(n: Int, ar: Array<Int>): Int {
     var colorsMap = HashMap<Int, Int> ()
     
