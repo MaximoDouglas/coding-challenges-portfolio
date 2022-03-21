@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5727bb0fe81185ae62000ae3
+
 def clean_string(s):
   new_string = ''
   b_count = 0
