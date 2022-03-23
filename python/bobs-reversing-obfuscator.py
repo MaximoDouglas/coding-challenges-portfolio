@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/559ee79ab98119dd0100001d
+
 def revert(string):
     reverted = ''
     for i in range(len(string) - 1, -1, -1):
