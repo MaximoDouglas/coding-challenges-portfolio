@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5b7176768adeae9bc9000056
+
 import math
 
 def rec(arr, begin, end):
