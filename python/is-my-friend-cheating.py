@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5547cc7dcad755e480000004
+
 def removNb(n):
     d = {}
     total = ((n+1)*n)/2
