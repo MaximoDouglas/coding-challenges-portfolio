@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/522551eee9abb932420004a0
+
 def nth_fib(n):
   if (n == 1):
       return 0
