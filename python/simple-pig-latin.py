@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/520b9d2ad5c005041100000f
+
 def pig_it(text):
     splitted_string = text.split()
     
