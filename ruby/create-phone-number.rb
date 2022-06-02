@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/525f50e3b73515a6db000b83
+
 def createPhoneNumber(numbers)
     return_string = ""
     numbers.each_with_index { |n, index|
