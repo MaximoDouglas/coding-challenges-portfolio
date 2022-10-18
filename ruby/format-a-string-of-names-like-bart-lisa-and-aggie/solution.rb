@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/53368a47e38700bd8300030d
+
 def list(names)
     list_size     = names.length
     string_return = ""
