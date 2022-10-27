@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/552c028c030765286c00007d
+
 def iq_test(numbers)
     even_list    = []
     odd_list     = []
