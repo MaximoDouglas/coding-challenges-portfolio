@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/55983863da40caa2c900004e
+
 def only_repeated_digits(digits)
     any_digit = digits[0]
   
