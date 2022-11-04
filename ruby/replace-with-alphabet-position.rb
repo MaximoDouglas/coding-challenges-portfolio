@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/546f922b54af40e1e90001da
+
 def alphabet_position(text)
     indexes = ('a'..'z').each_with_index.map{|l,i| [l, i+1]}.to_h
     
