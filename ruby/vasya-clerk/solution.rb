@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8
+
 def tickets(people)
     bills = { 25 => 0, 50 => 0, 100 => 0 }
     
